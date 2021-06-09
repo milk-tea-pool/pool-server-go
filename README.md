@@ -1,3 +1,6 @@
+![Milk Tea Pool](https://milkteapool.com/assets/img/miningstats-banner.png)
+by [Milk Tea Pool](https://www.milkteapool.com)
+
 ## Intro
 
 A pool server for the Chia pooling protocol, written in Golang.
