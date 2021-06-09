@@ -1,0 +1,8 @@
+.DS_Store
+
+bin/*
+pkg/*
+!.gitkeep
+
+# goop - go package manager
+.vendor
